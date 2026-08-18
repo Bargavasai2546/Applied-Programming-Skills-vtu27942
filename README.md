@@ -36,6 +36,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
