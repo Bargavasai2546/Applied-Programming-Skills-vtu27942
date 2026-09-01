@@ -6,6 +6,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
