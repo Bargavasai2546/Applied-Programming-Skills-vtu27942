@@ -30,6 +30,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0739-daily-temperatures) |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
