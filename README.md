@@ -35,6 +35,7 @@
 | [0739-daily-temperatures](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
