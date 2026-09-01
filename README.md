@@ -31,6 +31,7 @@
 | [0724-find-pivot-index](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1672-richest-customer-wealth](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -42,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0735-asteroid-collision) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
