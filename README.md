@@ -28,6 +28,7 @@
 | [0496-next-greater-element-i](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1672-richest-customer-wealth](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@
 | [0496-next-greater-element-i](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0496-next-greater-element-i](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
