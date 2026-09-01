@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0496-next-greater-element-i) |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
