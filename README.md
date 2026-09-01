@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1672-richest-customer-wealth](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1672-richest-customer-wealth) |
@@ -58,6 +59,7 @@
 | [0155-min-stack](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Bargavasai2546/Applied-Programming-Skills-vtu27942/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
